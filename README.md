@@ -20,6 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/n4thn1/recipe-page-component](https://github.com/n4thn1/recipe-page-component)
+- Live Site URL: [https://recipe-page-component-woad.vercel.app/](https://recipe-page-component-woad.vercel.app/)
 
 ## My process
 
